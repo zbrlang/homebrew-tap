@@ -1,0 +1,19 @@
+Copyright © 2026 ZBRLang. All Rights Reserved.
+
+This repository and its contents are publicly visible for the purpose of distributing the official ZBR CLI via Homebrew.
+
+You may:
+- View and study the Homebrew formula
+- Install and use the official ZBR CLI locally through this distribution method
+- Submit pull requests or suggested changes to this formula
+
+You may not:
+- Copy, redistribute, or re-upload this repository or its contents
+- Repackage, mirror, sublicense, or redistribute the ZBR CLI, runtime, binaries, or source code
+- Create derivative works intended to replicate or compete with ZBR
+- Rebrand, resell, or commercially distribute modified or unmodified versions of this project
+- Use the ZBR name, branding, assets, or identity without explicit written permission
+
+All rights to the software, source code, runtime engine, CLI, branding, assets, binaries, and related materials remain exclusively owned by ZBRLang unless otherwise stated.
+
+Unauthorized use, redistribution, replication, or commercial use of this project or its code is strictly prohibited.
